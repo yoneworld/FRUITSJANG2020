@@ -1,6 +1,5 @@
 # FruitsJang2023
 - For SHARP PC-G850 Series
-- Original PokecomJournal 1990/8 For PC-E500/1480U
 FruitJang2023.bas
 
 # 遊び方
@@ -20,7 +19,6 @@ FruitJang2023.bas
 - ファーストメイク(1回目であがる） +5000pts
 - ボーナスフルーツ +500pts
 
-```
 # CharacterCode
 ```
 SHIFT_JIS
