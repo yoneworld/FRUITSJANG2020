@@ -1,6 +1,6 @@
-# FruitsJang2023
+# FRUITS JANG 2023
 - For SHARP PC-G850 Series
-- FruitJang2023.bas
+- FRUITSJANG2023.bas
 
 # 遊び方
 ## キー操作
@@ -27,5 +27,5 @@ SHIFT_JIS
 CRLF
 ファイル末尾にCTRL+Zをつけて実機に転送する
 ```
-![G850](https://github.com/yoneworld/FruitJang2020/assets/2682671/dab956b9-a9f7-4321-b96f-32892821cdd7)
-![FJ2023](https://github.com/yoneworld/FruitJang2020/assets/2682671/1d7d31b0-15a5-4754-a214-493bdd38b018)
+![G850](https://github.com/yoneworld/FRUITSJANG2020/assets/2682671/dab956b9-a9f7-4321-b96f-32892821cdd7)
+![FJ2023](https://github.com/yoneworld/FRUITSJANG2020/assets/2682671/1d7d31b0-15a5-4754-a214-493bdd38b018)
