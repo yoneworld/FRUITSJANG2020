@@ -1,5 +1,6 @@
 # FruitsJang2023
 - For SHARP PC-G850 Series
+
 FruitJang2023.bas
 
 # 遊び方
